@@ -55,7 +55,8 @@ The dataset contains the following fields:
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1284" height="715" alt="image" src="https://github.com/user-attachments/assets/9cdee3fd-b081-4137-98f3-7ae019b2bf7b" />
+
 
 ---
 
@@ -103,6 +104,6 @@ This project demonstrates how data visualization and analytics can improve busin
 
 ## 👨‍💻 Author
 
-Your Name
+Mohammad Junaid
 
 ---
